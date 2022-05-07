@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Desarrollo SIN REPO/Titin Money/app/src/main/res/drawable/bg_rounded.xml" value="0.3345" />
+        <entry key="..\:/Desarrollo SIN REPO/Titin Money/app/src/main/res/layout/activity_create_bill.xml" value="0.308411214953271" />
+        <entry key="..\:/Desarrollo SIN REPO/Titin Money/app/src/main/res/layout/activity_create_incomin.xml" value="0.2975630611372381" />
+        <entry key="..\:/Desarrollo SIN REPO/Titin Money/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Desarrollo SIN REPO/Titin Money/app/src/main/res/layout/item_transaction.xml" value="0.28241160471441523" />
+        <entry key="..\:/Desarrollo SIN REPO/Titin Money/app/src/main/res/layout/view_input.xml" value="0.2964641885766092" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

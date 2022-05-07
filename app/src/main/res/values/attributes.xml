@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="InputView">
+        <attr name="label" format="string" />
+        <attr name="android:inputType" />
+        <attr name="android:required" />
+        <attr name="android:maxLength" />
+    </declare-styleable>
+</resources>

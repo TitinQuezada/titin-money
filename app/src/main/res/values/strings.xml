@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Titin Money</string>
+    <string name="bills">Gastos</string>
+    <string name="income">Ingresos</string>
+    <string name="description">Descripción</string>
+    <string name="quantity">Cantidad</string>
+    <string name="add">Agregar</string>
+    <string name="add_bill">Agregar gasto</string>
+    <string name="add_income">Agregar ingreso</string>
+    <string name="field_required">Campo requerido</string>
+    <string name="bill_added">Gasto agregado</string>
+    <string name="do_you_leave">Desea salir?</string>
+    <string name="income_added">Igreso agregado</string>
+</resources>

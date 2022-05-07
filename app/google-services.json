@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "287297787279",
+    "firebase_url": "https://pruebafire-6f6fe.firebaseio.com",
+    "project_id": "pruebafire-6f6fe",
+    "storage_bucket": "pruebafire-6f6fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287297787279:android:f4a386fc94c5986578a7fa",
+        "android_client_info": {
+          "package_name": "com.example.titinmoney"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287297787279-biquf95p12q3fau1l83f4cl8kvki8gag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACQuNCQ76cWqREAjurdc0VRs2HQsSbh3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287297787279-biquf95p12q3fau1l83f4cl8kvki8gag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
